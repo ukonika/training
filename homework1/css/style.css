@@ -1,0 +1,17 @@
+p{
+ font-size: 30px;
+ font-weight: 600px;   
+}
+
+table{
+    border: 5px solid black;
+    border-collapse: collapse;
+    width: 350px;
+    height: 200px;
+}
+tr, th{
+    border: 1px solid gray;
+}
+.item{
+    border:3px solid black;
+}

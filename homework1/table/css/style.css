@@ -1,0 +1,41 @@
+p{
+    margin: 0;
+    
+}
+table{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+    text-align: left;
+}
+tr, th{
+    border: 1px solid black;
+
+}
+.head{
+    background-color: rgb(229, 131, 238);
+    text-align: center;
+}
+
+
+.box{
+    background-color: chartreuse;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+.item{
+    background-color: chocolate;
+    padding: 10px 0;
+    
+    font-weight: 600px;
+}
+.dox{
+   
+   padding: 10px 0;
+   font-weight: 600px;
+}
+
+
+
