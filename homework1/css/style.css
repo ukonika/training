@@ -1,17 +1,58 @@
-p{
- font-size: 30px;
- font-weight: 600px;   
+.words{
+    font-weight: 600;
+    font-size: 30px;
 }
-
-table{
-    border: 5px solid black;
-    border-collapse: collapse;
-    width: 350px;
+.table{
+    width: 400px;
     height: 200px;
-}
-tr, th{
-    border: 1px solid gray;
+    border-collapse: collapse;
+    border: 5px solid black;
 }
 .item{
-    border:3px solid black;
+    font-size: 25px;
+    text-align: center;
+    border: 3px solid black;
+}
+th{
+    border: 1px solid gray;
+    text-align: left;
+}
+.familar{
+    width: 300px;
+    height: 250px;
+}
+.head{
+    background-color: rgb(29, 74, 196);
+    text-align: center;
+}
+textarea{
+    resize: none;
+}
+.fruit{
+    background-color: khaki;
+    padding-bottom: 25px;
+    width: 580px;
+}
+.head2{
+    background-color: lightcoral;
+    padding: 5px 0;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: left;
+    margin: 15px;
+}
+.name{
+    width: 30%;
+    margin-right: 15px;
+}
+.button{
+    margin-left: 200px;
+}
+video{
+    width: 100%;
 }

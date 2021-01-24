@@ -1,3 +1,6 @@
+table, td{
+    border: 3px dotted springgreen
+}
 div{
 background-color: rgb(10, 10, 10); 
 height: 150px;   
@@ -21,12 +24,12 @@ padding: 5px;
 .border-red{
     border: 10px solid rgb(15, 15, 15);  
 }
-#box3{
+#box3, #box6{
     background-color: rgb(255, 0, 0);
 }
-#box2{
+#box2, #box5{
     background-color: rgb(250, 246, 1);
 }
-#box1{
+#box1, #box4{
     background-color: rgb(51, 248, 2);
 }
