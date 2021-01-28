@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+.box{
+    width: 200px;
+    height: 200px;
+    /* display: inline-block; */
+    background-color: red;
+    color: white;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+#two{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.positioned{
+    width: 300px;
+    height: 100px;
+    position: sticky;
+    top: 30px;
+    left: 30px;
+    background-color: yellow;
+}

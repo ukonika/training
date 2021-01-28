@@ -1,0 +1,25 @@
+.fruit{
+    background-color: khaki;
+    padding-bottom: 25px;
+    width: 580px;
+}
+.head2{
+    background-color: rgb(248, 203, 1);
+    padding:0;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.form{
+    display: flex;
+    justify-content: left;
+    margin: 15px;
+}
+.name{
+    width: 30%;
+    margin-right: 15px;
+}
+.button{
+    margin-left: 200px;
+}

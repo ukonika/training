@@ -1,0 +1,22 @@
+table, td, th, tr{
+    border: 1px solid;
+    margin: 20px 0 0 10px;
+}
+.head{
+    background-color: rgb(107, 107, 190);
+}
+.main, .main2 {
+    text-align: left;
+}
+input{
+    outline: none;
+}
+textarea{
+    width: 299px;
+    height: 84px;
+    margin: 0px;
+    resize: none;
+}
+.main2{
+ margin: 0;
+}
